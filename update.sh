@@ -246,7 +246,7 @@ chmod +x /usr/bin/restart-webmin.sh
 
 # Install Menu
 cd
-wget https://raw.githubusercontent.com/ehomecore91/setup-code/master/menu
+wget https://raw.githubusercontent.com/ehomecore91/setup-code2/master/menu
 mv ./menu /usr/local/bin/menu
 chmod +x /usr/local/bin/menu
 cd ~/
